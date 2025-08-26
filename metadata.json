@@ -1,0 +1,8 @@
+
+{
+  "name": "Klangnah - Hörhilfe",
+  "description": "Eine professionelle Hörhilfe-Anwendung zur Echtzeit-Klangverstärkung mit Equalizer und Profilen.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
